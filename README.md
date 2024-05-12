@@ -14,5 +14,5 @@ To run Triplan locally, simply clone this repository to your local machine and o
 
 bash
 Copy code
-git clone https://github.com/your-username/triplan.git
+git clone [https://github.com/your-username/triplan.git](https://github.com/AmirFukman/Triplan.git)
 cd triplan
