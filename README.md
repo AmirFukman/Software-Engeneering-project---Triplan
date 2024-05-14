@@ -16,7 +16,7 @@ Triplan Triplan is a simple web application that provides information about trip
 ## Getting Started
 To run Triplan locally, simply clone this repository to your local machine and open the index.html file in your preferred web browser.
 
-```javascript
+```bash
 git clone https://github.com/AmirFukman/Triplan.git
 cd triplan
 ```
