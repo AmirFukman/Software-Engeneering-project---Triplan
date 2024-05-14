@@ -20,4 +20,4 @@ To run Triplan locally, simply clone this repository to your local machine and o
 git clone https://github.com/AmirFukman/Triplan.git
 cd triplan
 ```
-
+Then open index.html file and navigate
